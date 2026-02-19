@@ -3,8 +3,9 @@ name: detournement
 description: Transform existing cultural material by subverting its original meaning to create critical commentary.
 license: MIT
 metadata:
+  version: 1.0.3819
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - détournement
